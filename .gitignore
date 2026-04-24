@@ -1,0 +1,7 @@
+out/
+*.class
+run_log.txt
+result.json
+poll_data.json
+.idea/
+*.iml
